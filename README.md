@@ -1,7 +1,7 @@
 <p>👋 Hi, I'm Daniel Achacon</p>
 <p>🐝 I study CS @ Georgia Tech</p>
 <p>⚙️ Currently interested in AI and embedded systems</p>
-<p>👨‍💻 Checkout my [personal website](https://danielachacon.me/)
+👨‍💻 Checkout my [personal website](https://danielachacon.me/)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielachacon&show_icons=true&locale=en&layout=compact" alt="danielachacon" /></p>
 <br></br>
 <br></br>
