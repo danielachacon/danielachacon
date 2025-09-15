@@ -1,6 +1,6 @@
 👋 Hi, I'm Daniel Achacon  
 🐝 I study CS @ Georgia Tech  
-⚙️ Currently interested in AI and embedded systems  
+⚙️ Currently interested in AI and embedded systems, and hackathons!
 👨‍💻 Checkout my [personal website](https://danielachacon.me/)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielachacon&show_icons=true&locale=en&layout=compact" alt="danielachacon" /></p>
 <br></br>
